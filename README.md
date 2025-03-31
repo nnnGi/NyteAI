@@ -19,11 +19,17 @@ TEXT_GEN_MODEL = 'gemini-2.0-flash-thinking-exp' # Experimentive Text Generation
 IMAGE_GEN_MODEL = 'gemini-2.0-flash-exp-image-generation' # Experimentive Image Generation Model
 ```
 
+API Keys Go Here:
+```python
+KEY_MODELS = '{Generative Model API Key Here}'
+KEY_DISTRIBUTE = '{Distributive Model API Key Here}'
+```
+
 This programme pulls on two instances of Google Gemini:
     1. Check if the user request wants AI to generate text or image or to end the programme
     2. Fufil request with corresponding model (Text or Imagen)
 
-#Possible Errors when Running NyteAI
+# Possible Errors when Running NyteAI
 ```python
 raise Exception("ModelActivationError: Distribution Model failed to activate Text or Imagen Model")
 ```
