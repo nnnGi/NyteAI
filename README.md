@@ -13,7 +13,7 @@ Generate 2 Gemini API keys and put both in their corresponding variables below i
 Generate Gemini API Keys at https://aistudio.google.com/
 
 Models Used:
-```
+```python
 DISTRIBUTION_MODEL = 'gemini-2.0-flash-lite' // Chooses whether to use text or image generation model
 TEXT_GEN_MODEL = 'gemini-2.0-flash-thinking-exp' // Experimentive Text Generation Model with Thinking Abilities and Code Running Capabilities
 IMAGE_GEN_MODEL = 'gemini-2.0-flash-exp-image-generation' // Experimentive Image Generation Model
