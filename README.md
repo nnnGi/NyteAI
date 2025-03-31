@@ -1,9 +1,9 @@
 # NyteAI
 Generative AI using Google Gemini (Imagen, Text and Code Running)
 
-Python Libraries Required:
-    - PIL
-    - Google-GenerativeAi
+Python Libraries Required:\
+    - PIL\
+    - Google-GenerativeAi\
     - io
 
 This AI program can generate text and images and run code (mostly Python).
