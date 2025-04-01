@@ -26,8 +26,8 @@ KEY_DISTRIBUTE = '{Distributive Model API Key Here}'
 ```
 
 This programme pulls on two instances of Google Gemini:
-    1. Check if the user request wants AI to generate text or image or to end the programme\
-    2. Fufil request with corresponding model (Text or Imagen)\\
+1. Check if the user request wants AI to generate text or image or to end the programme<br>
+2. Fufil request with corresponding model (Text or Imagen)<br><br>
 
 # Possible Errors when Running NyteAI
 ```python
