@@ -1,10 +1,11 @@
 # NyteAI
+![Python Version](https://img.shields.io/badge/Python-%3E=3.13-blue.svg) \
 Generative AI using Google Gemini (Imagen, Text and Code Running)
 
 Python Libraries Required:\
-    - PIL\
-    - Google-GenerativeAi (Google Genai)\
-    - io
+    - [PIL](https://pypi.org/project/pillow/) \
+    - [Google-Genai](https://pypi.org/project/google-genai/)\
+    - io (Preinstalled)
 
 This AI program can generate text and images and run code (mostly Python).
 It is NyteAI or SwiftAI, written by @\_nnn_ (A.K.A @FlyBoyAce2) in Python 3.13.2
