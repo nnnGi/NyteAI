@@ -1,5 +1,5 @@
 # NyteAI
-![Python Version](https://img.shields.io/badge/Python-%3E=3.13-blue.svg) \
+![Python Version](https://img.shields.io/badge/Python-%3E=3.12-blue.svg) \
 Generative AI using Google Gemini (Imagen, Text and Code Running)
 
 Python Libraries Required:\
